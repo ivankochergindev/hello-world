@@ -1,0 +1,14 @@
+h1 {
+    font-size: 30px;
+    color: blueviolet;
+    margin-left: 100px;
+    margin-top: 30vh;
+    position: sticky;
+}
+button {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: darkgreen;
+    color: aquamarine;
+    font-size: 40px;
+}
